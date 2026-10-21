@@ -1,4 +1,4 @@
-# Mphasis-Ltts-Pair-Trading-Strategy
+# STATISTICAL ARBITRAGE PAIRS TRADING
 
 Project Overview :
 
